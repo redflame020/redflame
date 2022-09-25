@@ -1,5 +1,30 @@
+<!doctype html>
 
-<p>The other day, I was in an Uber with some friends, and I was made painfully aware of how cramped the back of an Uber can get, especially when it’s filled with 3 high-schooler-sized high schoolers.</p>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>RedFlame</title>
+  <meta name="description" content="A more informal blog of mine.">
+  <meta name="author" content="redflame020">
+
+  <meta property="og:title" content="RedFlame">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="redflame.ml">
+  <meta property="og:description" content="THE REDFLAME PROJECT">
+  <meta property="og:image" content="RedFlame.jpg">
+
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  <p>The other day, I was in an Uber with some friends, and I was made painfully aware of how cramped the back of an Uber can get, especially when it’s filled with 3 high-schooler-sized high schoolers.</p>
 
 
 
@@ -72,3 +97,7 @@
 
 
 <p>The Theorem might seem a bit optimistic since we always have more perfectly comfortable people than perfectly uncomfortable, but unfortunately, a direct corollary is that the number of perfectly comfortable people is bounded above by $\lceil \dfrac{n}{2} \rceil$. Welp, it is what it is.</p>
+</body>
+</html>
+
+
